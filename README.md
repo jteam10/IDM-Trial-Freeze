@@ -4,7 +4,7 @@
 **IDM Trial Freeze Tool** is a powerful utility designed to manage and extend the trial period of Internet Download Manager (IDM). This tool provides multiple methods to handle IDM's trial limitations, including freezing the trial period, resetting the trial counter, and activating the software with custom registration details.
 
 ---
-<p align="center"> <table> <tr> <td align="center"><img src="screenshots/status.png" width="300"><br><em>Status Check</em></td> <td align="center"><img src="screenshots/success.png" width="300"><br><em>Success Message</em></td> </tr> <tr> <td align="center"><img src="screenshots/trial.png" width="300"><br><em>Trial Mode</em></td> <td align="center"><img src="screenshots/registered.png" width="300"><br><em>Registered Mode</em></td> </tr> </table> </p>
+<p align="center"> <table> <tr> <td align="center"><img src="https://github.com/jteam10/IDM-Trial-Freeze/blob/main/1.PNG" width="300"><br><em>Status Check</em></td> <td align="center"><img src="screenshots/success.png" width="300"><br><em>Success Message</em></td> </tr> <tr> <td align="center"><img src="screenshots/trial.png" width="300"><br><em>Trial Mode</em></td> <td align="center"><img src="screenshots/registered.png" width="300"><br><em>Registered Mode</em></td> </tr> </table> </p>
 
 ## ✨ Features
 
