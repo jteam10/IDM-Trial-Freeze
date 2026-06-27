@@ -10,9 +10,9 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://github.com/jteam10/IDM-Trial-Freeze/blob/main/1.PNG" width="300"><br><em>Main Interface</em></td>
-      <td align="center"><img src="https://github.com/jteam10/IDM-Trial-Freeze/blob/main/2.PNG" width="300"><br><em>Status Check</em></td>
-      <td align="center"><img src="https://github.com/jteam10/IDM-Trial-Freeze/blob/main/3.PNG" width="300"><br><em>Success Message</em></td>
+      <td align="center"><img src="https://github.com/jteam10/IDM-Trial-Freeze/blob/main/1.PNG" width="300"><br><em>Screenshot</em></td>
+      <td align="center"><img src="https://github.com/jteam10/IDM-Trial-Freeze/blob/main/2.PNG" width="300"><br><em>Screenshot</em></td>
+      <td align="center"><img src="https://github.com/jteam10/IDM-Trial-Freeze/blob/main/3.PNG" width="300"><br><em>Screenshot</em></td>
     </tr>
   </table>
 </p>
