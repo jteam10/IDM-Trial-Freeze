@@ -64,7 +64,6 @@
 - Multi-path IDM detection
 - Registry cleaning and management
 - File version detection
-- Silent mode support (`/trial` command line)
 - Single instance enforcement
 
 ---
