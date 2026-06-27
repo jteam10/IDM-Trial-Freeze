@@ -91,7 +91,3 @@
 2. Run `IDM Trial Freeze Tool.exe`
 3. No installation required (portable)
 
-### **Command Line Usage**
-```bash
-# Silent trial reset mode
-IDM Trial Freeze Tool.exe /trial
