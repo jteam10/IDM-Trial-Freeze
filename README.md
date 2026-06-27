@@ -1,2 +1,2 @@
-# IDM-Trial-Freeze
+# IDM Trial Freeze Tool Pro
 IDM Trial Freeze
